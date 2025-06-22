@@ -104,7 +104,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["1.13.16.117"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rust.edunote.cn"];
 pub const RS_PUB_KEY: &str = "3aduxFX+Qp93RJis1PTVIih+kmbUydV0i822vdyHZLw=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
